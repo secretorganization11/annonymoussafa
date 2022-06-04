@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+}
+#p1 {
+    font-size: medium;
+}
+#h101 {
+    font-size: 50 rem;
+    float: inherit;
+}
